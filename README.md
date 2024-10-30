@@ -3,25 +3,25 @@
 
 **Introduction**: 
 
- * The given report contains Employee Attendance and Salary Trends![HR Analysis Data 30-10-2024 18_12_43](https://github.com/user-attachments/assets/22437b7b-2341-43a7-8c43-1f9659db2c56)
- for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance patterns.
+ * The given report contains Employee Attendance and Salary Trends for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance 
+   patterns.
  * The primary objective of this report is to provide HR managers and executives valuable insights into the workforce dynamics, enabling data-driven decision-making to 
    enhance organizational efficiency and employee satisfaction.
- *Various visualizations, including bar charts, pie charts, and line graphs, have been employed to represent the data effectively and facilitate interpretation.
+ * Various visualizations, including bar charts, pie charts, and line graphs, have been employed to represent the data effectively and facilitate interpretation.
 
 
 **Visualizations**:
 
-      *Employee Count: Bar charts showing the number of employees by department and sum of salaries by age as well.
-      *Salary Distribution: Pie charts displaying the sum of salaries experience level.
-      *Attendance Patterns: Line graphs illustrating total attendance by gender.
+ * Employee Count: Bar charts showing the number of employees by department and sum of salaries by age as well.
+ * Salary Distribution: Pie charts displaying the sum of salaries experience level.
+ * Attendance Patterns: Line graphs illustrating total attendance by gender.
 
 **Insights**:
 
-     *Employee Count: A steady increase in the number of employees in the IT department.
-     *Salary Distribution: Higher salaries observed in employees with more than 10 years of experience.
-     *Attendance Patterns:  Higher attendance rates among female employees.
+ * Employee Count: A steady increase in the number of employees in the IT department.
+ * Salary Distribution: Higher salaries observed in employees with more than 10 years of experience.
+ * Attendance Patterns:  Higher attendance rates among female employees.
 
 **Conclusion**:
-*The report aims to identify areas of improvement, highlight significant trends, and provide actionable recommendations to support strategic HR initiatives.
+ * The report aims to identify areas of improvement, highlight significant trends, and provide actionable recommendations to support strategic HR initiatives.
 
