@@ -1,3 +1,4 @@
+![HR Analysis Data 30-10-2024 15_34_17](https://github.com/user-attachments/assets/d7e8410f-1c5b-4093-a387-3266323dcf87)
 # Employee Analysis
 
 **Introduction**: 
