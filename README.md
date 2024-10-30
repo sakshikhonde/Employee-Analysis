@@ -23,4 +23,4 @@
 
 **Conclusion**:
 *The report aims to identify areas of improvement, highlight significant trends, and provide actionable recommendations to support strategic HR initiatives.
-![Employee Analysis 02-10-2024 17_32_41](https://github.com/user-attachments/assets/16b16500-3ca8-43bc-afe5-c8b86eae9da2)
+
