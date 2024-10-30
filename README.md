@@ -1,4 +1,5 @@
-![HR Analysis Data 30-10-2024 18_12_43](https://github.com/user-attachments/assets/90dcf494-9171-4865-b37d-d0b41223e50c)
+
+![Employee analysis and salary trend](https://github.com/user-attachments/assets/753fe82a-f57e-4fb9-a71b-6995d46ecfc6)
 
 # Project Title: Employee Attendance and Salary Trends
 
