@@ -1,8 +1,8 @@
-# HR-Analysis-Data
+# Employee Analysis
 
 **Introduction**: 
 
- * The given report contains HR Analysis for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance patterns.
+ * The given report contains Employee Analysis for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance patterns.
  * The primary objective of this report is to provide HR managers and executives valuable insights into the workforce dynamics, enabling data-driven decision-making to 
    enhance organizational efficiency and employee satisfaction.
  *Various visualizations, including bar charts, pie charts, and line graphs, have been employed to represent the data effectively and facilitate interpretation.
@@ -22,4 +22,4 @@
 
 **Conclusion**:
 *The report aims to identify areas of improvement, highlight significant trends, and provide actionable recommendations to support strategic HR initiatives.
-![HR Analysis Data 02-10-2024 17_32_41](https://github.com/user-attachments/assets/16b16500-3ca8-43bc-afe5-c8b86eae9da2)
+![Employee Analysis 02-10-2024 17_32_41](https://github.com/user-attachments/assets/16b16500-3ca8-43bc-afe5-c8b86eae9da2)
