@@ -5,7 +5,7 @@
 
 **Introduction**: 
 
- * The given report contains Employee Attendance and Salary Trends for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance 
+ * The given report contains Employee Analysis for the years 2020-22 focusing on some key points like employee count, salary distribution, and attendance 
    patterns.
  * The primary objective of this report is to provide HR managers and executives valuable insights into the workforce dynamics, enabling data-driven decision-making to 
    enhance organizational efficiency and employee satisfaction.
